@@ -1,3 +1,7 @@
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@LamoDxDRohit/30-nites-of-code)  
+  ![@LamoDxDRohit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LamoDxDRohit)
+
 # 👋 Hi, I'm Rohit Mahajan
 
 Welcome to my GitHub! I'm a passionate developer currently working on a full-stack cargo management system called **Shiplify** — a powerful Django-based platform designed to streamline cargo operations and logistics.
@@ -45,6 +49,4 @@ I also enjoy writing detailed documentation and reports. Currently, I'm working 
 
 Thanks for stopping by! 😊
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@LamoDxDRohit/30-nites-of-code)  
-  ![@LamoDxDRohit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LamoDxDRohit)
+
