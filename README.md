@@ -19,7 +19,7 @@ A full-featured web app built using Django, PostgreSQL, and Bootstrap, aimed at 
 - 💻 **Languages**: Python, JavaScript, HTML, CSS
 - 🌐 **Frameworks**: Django, Bootstrap
 - 🛢️ **Database**: PostgreSQL, SQLite (for dev)
-- ⚙️ **Tools**: Git, GitHub, VS Code, Docker (basic)
+- ⚙️ **Tools**: Git, GitHub, VS Code
 - 🧪 **Other**: REST APIs, Markdown, Technical Documentation
 
 ---
@@ -39,8 +39,8 @@ I also enjoy writing detailed documentation and reports. Currently, I'm working 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/rohit-mahajan1202)
+- 🐙 [GitHub](https://github.com/Rohitisavailable)
 - ✉️ Email: rohitmahajan1202@gmail.com
 
 ---
