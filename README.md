@@ -6,13 +6,6 @@
 
 Welcome to my GitHub! I'm a passionate developer currently working on a full-stack cargo management system called **Shiplify** — a powerful Django-based platform designed to streamline cargo operations and logistics.
 
----
-
-## 🚀 Current Project
-### 🔧 [Shiplify - Cargo Management System](https://github.com/Rohitisavailable/shiplify-render)
-A full-featured web app built using Django, PostgreSQL, and Bootstrap, aimed at simplifying cargo bookings, tracking, invoicing, and overall logistics workflows.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -23,17 +16,6 @@ A full-featured web app built using Django, PostgreSQL, and Bootstrap, aimed at 
 - 🧪 **Other**: REST APIs, Markdown, Technical Documentation
 
 ---
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## ✍️ Technical Writing
-
-I also enjoy writing detailed documentation and reports. Currently, I'm working on a **technical paper** for Shiplify, focusing on system design, architecture, and implementation.
 
 ---
 
