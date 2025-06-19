@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Rohit Mahajan
 
-Welcome to my GitHub! I'm a passionate developer currently working on a full-stack cargo management system called **Shiplify** — a powerful Django-based platform designed to streamline cargo operations and logistics.
+Welcome to my GitHub! I'm a passionate developer.
 
 
 ## 🛠️ Tech Stack
