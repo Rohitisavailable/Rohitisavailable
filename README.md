@@ -1,6 +1,3 @@
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@LamoDxDRohit/30-nites-of-code)  
-  ![@LamoDxDRohit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LamoDxDRohit)
 
 # 👋 Hi, I'm Rohit Mahajan
 
@@ -16,9 +13,6 @@ Welcome to my GitHub! I'm a passionate developer.
 - 🧪 **Other**: REST APIs, Markdown, Technical Documentation
 
 ---
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/rohit-mahajan1202)
