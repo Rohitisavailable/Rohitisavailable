@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer.
 
 - 💻 **Languages**:  JavaScript, HTML, CSS
 - 🌐 **Frameworks**:  Bootstrap
-- 🛢️ **Database**: PostgreSQL, SQLite (for dev)
+- 🛢️ **Database**: PostgreSQL
 - ⚙️ **Tools**: Git, GitHub, VS Code
 - 🧪 **Other**: REST APIs, Markdown, Technical Documentation
 
