@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate developer.
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: Python, JavaScript, HTML, CSS
-- 🌐 **Frameworks**: Django, Bootstrap
+- 💻 **Languages**:  JavaScript, HTML, CSS
+- 🌐 **Frameworks**:  Bootstrap
 - 🛢️ **Database**: PostgreSQL, SQLite (for dev)
 - ⚙️ **Tools**: Git, GitHub, VS Code
 - 🧪 **Other**: REST APIs, Markdown, Technical Documentation
