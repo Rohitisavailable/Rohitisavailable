@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Rohit Mahajan
 
+My[Resume](https://rohitisavailable.github.io/Resume/)
 Welcome to my GitHub! I'm a passionate developer.
 
 
