@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate developer.
 ---
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/rohitmahajan12/)
+- 💼 [LinkedIn](https://linkedin.com/in/rohitmahajan12/)
 - 🐙 [GitHub](https://github.com/Rohitisavailable)
 - ✉️ Email: rohitmahajan1202@gmail.com
 
