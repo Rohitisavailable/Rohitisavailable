@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm Rohit Mahajan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:12306B,100:00C6FF&section=header" width="100%" alt="Blue wave banner"/>
 
-I build practical web apps and learn by taking them from idea to deployment.
+# Rohit Mahajan
 
-[Resume](https://rohitisavailable.github.io/Resume/) · [LinkedIn](https://linkedin.com/in/rohitmahajan12/) · [Email](mailto:rohitmahajan1202@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Rajdhani&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=48&lines=Building+useful+web+apps;Exploring+AI+in+the+browser;Learning+cloud+deployment" alt="Animated introduction"/>
+
+[Resume](https://rohitisavailable.github.io/Resume/) · [LinkedIn](https://linkedin.com/in/rohitmahajan12/) · [Email](mailto:rohitmahajan1202@gmail.com) · [Repositories](https://github.com/Rohitisavailable?tab=repositories)
 
 </div>
 
@@ -12,31 +14,68 @@ I build practical web apps and learn by taking them from idea to deployment.
 
 ## About me
 
-- Interested in **web development, useful AI features, and cloud deployment**
-- I enjoy building complete projects, from the user interface and backend to data handling and deployment
-- Currently sharpening my skills in **Python, JavaScript, PostgreSQL, and AWS/cloud fundamentals**
+I build practical web applications and learn by taking them from idea to deployment. I’m especially interested in thoughtful user experiences, useful AI features, and how web apps work end to end.
 
-## Featured projects
+- 🧩 Frontend and backend development
+- 🤖 Browser-based and hosted AI integrations
+- ☁️ Learning cloud deployment and AWS fundamentals
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Fieldnote](https://github.com/Rohitisavailable/Fieldnote) | An outdoor reflection app with an on-device model for compatible browsers and an optional hosted fallback. [Try it](https://trailside.onrender.com/) | JavaScript, WebLLM, WebGPU, Supabase |
-| [One Thing](https://github.com/Rohitisavailable/one-thing) | Turns a task into one small, realistic next step and lets you save plans. [Try it](https://one-thing-3y6j.onrender.com/) | JavaScript, Supabase, PostgreSQL, Backboard |
-| [PassThrough](https://github.com/Rohitisavailable/PassThrough) | Helps freelancers review receipt details, approve billable expenses, and export invoice-ready CSV lines. | Python, FastAPI, SQLite, Backboard |
-| [PixelWX](https://github.com/Rohitisavailable/pixel-weather) | A pixel-art weather app with city search, forecasts, and animated scenes. | JavaScript, Canvas, Open-Meteo |
-| [Community Desk](https://github.com/Rohitisavailable/community-mvp) | A prototype for project-scoped knowledge and source-grounded answers. | Python, SQLite, Flask |
+## How I build
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[Build the app]
+    B --> C[GitHub]
+    C --> D[Deploy the web app]
+    D --> E[Learn from use and improve]
+```
+
+</div>
 
 ## Skills and tools
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**Data:** PostgreSQL, SQLite  
-**Tools and platforms:** Git, GitHub, VS Code, Supabase, Render  
-**Exploring:** AWS and cloud deployment
+<div align="center">
 
-## What I'm working on
+<img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,sqlite,git,github,vscode&theme=dark&perline=9" alt="Python, JavaScript, HTML, CSS, PostgreSQL, SQLite, Git, GitHub, and VS Code"/>
 
-Building useful applications, improving how I design and document them, and learning to deploy and operate software in the cloud.
+</div>
+
+| Area | Skills and tools |
+| --- | --- |
+| Languages | Python, JavaScript, HTML, CSS |
+| Frameworks | FastAPI, Flask, Bootstrap |
+| Data | PostgreSQL, SQLite |
+| AI and browser tech | Supabase, Backboard, WebLLM, WebGPU |
+| Tools and deployment | Git, GitHub, VS Code, Render |
+| Exploring | AWS and cloud deployment |
+
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Fieldnote](https://github.com/Rohitisavailable/Fieldnote) · [Live app](https://trailside.onrender.com/) | An outdoor reflection app with an on-device model for compatible browsers and an optional hosted fallback. | JavaScript, WebLLM, WebGPU, Supabase |
+| [One Thing](https://github.com/Rohitisavailable/one-thing) · [Live app](https://one-thing-3y6j.onrender.com/) | Turns a task into one small next step and lets you save plans. | JavaScript, Supabase, PostgreSQL, Backboard |
+| [PassThrough](https://github.com/Rohitisavailable/PassThrough) | Helps freelancers review receipt details, approve billable expenses, and export invoice-ready CSV lines. | Python, FastAPI, SQLite |
+| [PixelWX](https://github.com/Rohitisavailable/pixel-weather) | A pixel-art weather app with city search, forecasts, and animated scenes. | JavaScript, Canvas, Open-Meteo |
+| [Community Desk](https://github.com/Rohitisavailable/community-mvp) | A prototype for project-scoped knowledge and source-grounded answers. | Python, SQLite |
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitisavailable&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitisavailable&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
 
 ---
 
-Thanks for stopping by!
+<div align="center">
+
+Thanks for stopping by! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Blue wave footer"/>
+
+</div>
