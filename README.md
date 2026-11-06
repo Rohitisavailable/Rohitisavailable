@@ -1,6 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:12306B,100:00C6FF&section=header" width="100%" alt="Blue wave banner"/>
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/Rohitisavailable/Rohitisavailable/output/tulkun/tulkun.gif" width="640" alt="Rohitisavailable's git-tulkun" />
+  </a>
+</p>
 
 # Rohit Mahajan
 
