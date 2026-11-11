@@ -1,0 +1,54 @@
+name: Garden
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      commits:
+        description: 'Commit count override'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency: garden
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r garden/requirements.txt
+
+      - name: Grow the garden
+        run: |
+          if [ -n "${{ github.event.inputs.commits }}" ]; then
+            COUNT="${{ github.event.inputs.commits }}"
+          else
+            # real commits only: skip the koi and garden bot commits
+            COUNT=$(git rev-list --count HEAD --invert-grep --grep='^koi:' --grep='^garden:')
+          fi
+          echo "growing the garden at commit count: $COUNT"
+          python garden/grow.py --commits "$COUNT" --output garden/garden.gif
+
+      - name: Commit the garden if it changed
+        run: |
+          git add garden/garden.gif
+          if git diff --cached --quiet; then
+            echo "The garden is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "garden: grow with the latest commit [skip ci]"
+          git push --quiet
